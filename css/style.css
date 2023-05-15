@@ -62,6 +62,10 @@ select {
   line-height: 48px;
 }
 
+.backMenu {
+  text-decoration: none;
+  color: #000000;
+}
 footer {
   text-align: center;
 }
